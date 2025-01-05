@@ -1,0 +1,27 @@
+#header{
+text-align:center;
+font-family:'Times New Roman', Times, serif;
+font-weight: bolder;}
+.recipes{
+ text-align: center;
+  margin: 50 ,200,50,200;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:26px;
+  font-weight: bold;
+  display: block;
+  }
+body{
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+background-color: hsla(34, 92%, 75%, 0.836);}
+img {
+    height: 512px;
+    width: 612px;
+    margin-left: 200px;
+    
+}
+li{
+    text-align: left;
+}
